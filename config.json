@@ -1,0 +1,19 @@
+{
+    "name": "React Chess",
+    "camera": {
+        "number": 0,
+        "type": "standard",
+        "width": 1920,
+        "height": 1080,
+        "flip": true
+    },
+    "applications": {
+        "startup": ["show_amoeba"],
+        "disabled": []
+    },
+    "screen": {
+        "width": 1920,
+        "height": 1080
+    },
+    "calibrate": true
+}
