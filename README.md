@@ -1,2 +1,1 @@
-# art-table
 # react-chess

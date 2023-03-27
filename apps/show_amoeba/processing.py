@@ -13,4 +13,4 @@ class Application(BaseApplication):
         if source == "amoeba_markers" and data is not None:
             if event == "amoeba":
                # print(data)
-                self.server.send_data("amoeba_markers", data)
+                self.server.send_data("amoeba_markers_info", data)
